@@ -1,7 +1,13 @@
 
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Hernan Bellassai</h1>
-<h3 align="center">A passionate Full stack developer from Argentina
+<h1 align="center">Hola  👋, soy Hernan Bellassai</h1>
+<h3 align="center">un apacionado del desarollo web de Argentina. 
+En el 2020 me vi encerrado como todos! entendia que necesitaba un cambio y vi a oportunidad de aprender programcion. 
+Siempre me intereso el diseño y crear cosas y en la programacion me di cuenta que podia mezclar ambos mundos! 
+
+No dudes en contactarme! 
+
+  
 
 <br/>
 <br/>
@@ -22,4 +28,6 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernanbellassai&" alt="hernanbellassai" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanbellassai&show_icons=true&locale=en&layout=compact" alt="hernanbellassai" /></p>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernanbellassai&" alt="hernanbellassai" /></p> 
