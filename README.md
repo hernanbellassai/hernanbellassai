@@ -30,4 +30,6 @@ No dudes en contactarme!
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanbellassai&show_icons=true&locale=en&layout=compact" alt="hernanbellassai" /></p>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hernanbellassai&" alt="hernanbellassai" /></p> 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hernanbellassai&show_icons=true&locale=en" alt="hernanbellassai" /></p>
+  
+
